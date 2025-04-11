@@ -1,5 +1,6 @@
 {
-  "latest_version": "v1.1",
-  "download_url": "https://github.com/Srijeeta10/DecryptionApp/releases/download/v1.1/MatrixDecryptionInstaller.exe",
-  "changelog": "🧠 Database changed."
+  "version": "v1.1",
+  "changelog": "https://github.com/Srijeeta10/DecryptionApp/releases/tag/v1.1",
+  "download_url": "https://github.com/Srijeeta10/DecryptionApp/releases/download/v1.1/matrix_app.exe"
 }
+
